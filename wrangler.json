@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "supabase-keepalive",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "db42b9d1-088c-452e-8819-68764d61bb0c",
+			"database_name": "supabase-keepalive"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
